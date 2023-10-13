@@ -3,6 +3,7 @@
     "version": "23.10.13",
     "displayName": "Prototype Engine",
     "description": "Simple architecture for prototyping games",
+    "documentationUrl": "https://github.com/springpunk/unity-protoype-engine#readme",
    "keywords": [
       "prototyping",
       "architecture",
