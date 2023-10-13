@@ -1,0 +1,16 @@
+{
+    "name": "Springpunk.PrototypeEngine.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:342103618dd7b5e4293ef1f4a6eb57f7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
