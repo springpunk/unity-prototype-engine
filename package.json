@@ -1,6 +1,6 @@
 {
     "name": "net.springpunk.prototype-engine",
-    "version": "23.10.13",
+    "version": "23.10.28",
     "displayName": "Prototype Engine",
     "description": "Simple architecture for prototyping games",
     "documentationUrl": "https://github.com/springpunk/unity-protoype-engine#readme",
