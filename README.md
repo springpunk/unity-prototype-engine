@@ -1,3 +1,3 @@
-# Springpunk Protoype Engine for Unity
+# Springpunk Prototype Engine for Unity
  
 Documentation Coming Soon
